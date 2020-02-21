@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="tst">
+    <test name="login">
+        <classes>
+            <class name="com.course.testng.groups.GroupsOnMethod"/>
+            <class name="com.course.testng.suite.LoginTest" />
+        </classes>
+    </test>
+</suite>
